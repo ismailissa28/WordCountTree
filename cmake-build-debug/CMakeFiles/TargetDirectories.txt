@@ -1,0 +1,3 @@
+C:/Users/Ismail.Issa/CLionProjects/480/cmake-build-debug/CMakeFiles/480.dir
+C:/Users/Ismail.Issa/CLionProjects/480/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ismail.Issa/CLionProjects/480/cmake-build-debug/CMakeFiles/rebuild_cache.dir

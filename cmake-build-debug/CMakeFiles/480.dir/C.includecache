@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ismail.Issa/CLionProjects/480/dicttree.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+ctype.h
+-
+
+C:/Users/Ismail.Issa/CLionProjects/480/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+dicttree.h
+C:/Users/Ismail.Issa/CLionProjects/480/dicttree.h
+
